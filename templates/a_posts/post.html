@@ -1,0 +1,25 @@
+<article class="card">
+    <div class="flex items-center justify-between px-4 h-14">
+        <h3 class="text-start leading-5 mr-1">{{post.title}}</h3>
+        <div class="text-sm text-gray-400 truncate"><a href="" class="hover:underline ml-1" target="blank"></a></div>
+    </div>
+    <figure>
+        <a href=" {% url 'post' post.id %}"><img class="w-full" src={{post.image}}></a>
+    </figure>
+    <div class="p-4 pb-2">
+        <a class="flex items-center gap-1 mb-4" href="">
+           
+            <span class="font-bold hover:underline"></span>
+            <span class="text-sm text-gray-400"></span>
+        </a>
+        <p class="text-5xl mb-10 px-4 font1">{{post.body}}</p>
+
+        <div class="flex items-center justify-between text-sm px-2">
+            <a class="font-bold hover:underline" href=" {% url 'post' post.id %}">
+                Comments
+                <span class="font-light text-gray-500 ml-1"></span>
+            </a>
+
+        </div>
+    </div>
+</article>
