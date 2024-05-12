@@ -31,7 +31,7 @@
     
 
 ![Screenshot 2024-05-12 181405](https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/60731d7c-0098-4371-81bb-2a0a70fb0b36)
-    2. this is out sign up page (however we can use bootstrap on it and can make it more beautiful )
+    2. this is our sign up page (however we can use bootstrap on it and can make it more beautiful )
     
 ![Screenshot 2024-05-12 181415](https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/ff8249e3-b20e-4003-9007-cad287e10220)
     3. this our post create tab in this we can create post this post-create tab contains two arguments image and text (image you can select from flickr link is given just above from add url section )<img width="527" alt="cloudsek img" src="https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/56504ed5-d550-40d9-933f-c7af1c2fbdaf">
