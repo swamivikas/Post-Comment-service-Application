@@ -1,4 +1,16 @@
+# technologies used
+  1. Django
+  2. sqlite database
+  3. python
+  4. beautifulsoup
+  5. pillow
+  6. html
+  7. css, bootstrap
+  
+
+
 # CloudSek-Backend-Intern-Post-Comment-Assignment
+
    preview of the project
 
 
