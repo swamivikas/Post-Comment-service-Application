@@ -1,6 +1,13 @@
 # CloudSek-Backend-Intern-Post-Comment-Assignment
    preview of the project
 
+
+   
+
+https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/c1403d9b-36b2-408e-b41f-2823bbd26462
+
+
+
 # requirements 
 
   1 . you have to create virtual environment and install django in that 
