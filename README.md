@@ -7,6 +7,9 @@
 https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/c1403d9b-36b2-408e-b41f-2823bbd26462
 
 
+i cant upload more than 10 mb file so this is a short prview of  to do a comment 
+
+
 
 # requirements 
 
