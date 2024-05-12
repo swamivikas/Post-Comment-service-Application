@@ -36,7 +36,7 @@
 ![Screenshot 2024-05-12 181415](https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/ff8249e3-b20e-4003-9007-cad287e10220)
     3. this our post create tab in this we can create post this post-create tab contains two arguments image and text (image you can select from flickr link is given just above from add url section )
     
-    <img width="527" alt="cloudsek img" src="https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/56504ed5-d550-40d9-933f-c7af1c2fbdaf">
+ <img width="527" alt="cloudsek img" src="https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/56504ed5-d550-40d9-933f-c7af1c2fbdaf">
     4. comment section  - in this multiple users can comment on one post and those users username will show on their comment 
     
 
