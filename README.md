@@ -49,7 +49,7 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
 
 # lets see in action of this project 
 
-    1. this is out home page 
+  1. this is our home page 
     
 
 ![Screenshot 2024-05-12 181405](https://github.com/swamivikas/CloudSek-Backend-Intern-Post-Comment-Assignment/assets/108607735/60731d7c-0098-4371-81bb-2a0a70fb0b36)
