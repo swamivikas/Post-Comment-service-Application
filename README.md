@@ -34,12 +34,12 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
          command ->  source (your virtual environment name)/bin/activate    (for mac)  , sample is shown below for windows
          <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/297db68c-98c9-4803-9635-2ba627229557">
    3. now install all dependencies :
-        1. pip install requests
-        2. pip install django-allauth
-        3. pip install django
-        4. pip install beautifulsoup4
-        5. pip install pillow
-        6. python manage.py migrate
+        . pip install requests
+        . pip install django-allauth
+        . pip install django
+        . pip install beautifulsoup4
+        . pip install pillow
+        . python manage.py migrate
   4. now apply migration to the database
        command ->  python manage.py migrate  , sample is shown below
        <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/9a3e34b3-5223-4937-928b-8f5dea47cadf">
