@@ -23,18 +23,13 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
 
 
 
-# requirements 
+# how to run locally 
 
-  1 . you have to create virtual environment and install django in that 
-
-       to create virtual environment    : python -m venv (your virtual enivronment name )
-       to install django make you are in the same directory :  pip install django
-
- 2  .  installation of pillow and beautifulsoup and django-allauth 
-
-     for beautifulsoup : pip install beautifulsoup
-     for pillow :        pip install pillow 
-     for django-allauth : pip install django-allauth
+pip install requests
+pip install django-allauth
+pip install django
+pip install beautifulsoup4
+pip install pillow
 
 # why i choose Django over other 
   Django has built-in features that make it safer to use the user-submitted data on the application
