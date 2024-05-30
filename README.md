@@ -30,16 +30,12 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
            command -> python -m venv (name of your virtual environment) , sample is shown below
            <img width="697" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/43321f8a-ad2a-4ce8-a695-7010a0df065e">
    2. now activate your virtual environment
-         command -> (your virtual environment name)\Scripts\Activate.bat   (for windows)
-         command ->  source (your virtual environment name)/bin/activate    (for mac)  , sample is shown below for windows
+         1.command -> (your virtual environment name)\Scripts\Activate.bat   (for windows)
+         2.command ->  source (your virtual environment name)/bin/activate    (for mac)  , sample is shown below for windows
          <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/297db68c-98c9-4803-9635-2ba627229557">
    3. now install all dependencies :
-        . pip install requests
-        . pip install django-allauth
-        . pip install django
-        . pip install beautifulsoup4
-        . pip install pillow
-        . python manage.py migrate
+         ![image](https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/d8b0146e-160c-44c0-be69-c3d2637cbb33)
+
   4. now apply migration to the database
        command ->  python manage.py migrate  , sample is shown below
        <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/9a3e34b3-5223-4937-928b-8f5dea47cadf">
