@@ -30,6 +30,7 @@ pip install django-allauth
 pip install django
 pip install beautifulsoup4
 pip install pillow
+python manage.py migrate
 
 # why i choose Django over other 
   Django has built-in features that make it safer to use the user-submitted data on the application
