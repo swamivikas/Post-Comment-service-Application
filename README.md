@@ -34,17 +34,19 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
          2.command ->  source (your virtual environment name)/bin/activate    (for mac)  , sample is shown below for windows
          <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/297db68c-98c9-4803-9635-2ba627229557">
    3. now install all dependencies :
+
+      
          ![image](https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/d8b0146e-160c-44c0-be69-c3d2637cbb33)
 
-  4. now apply migration to the database
+  5. now apply migration to the database
        command ->  python manage.py migrate  , sample is shown below
        <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/9a3e34b3-5223-4937-928b-8f5dea47cadf">
 
-  5. now run the  server using following command
+  6. now run the  server using following command
       command -> python manage.py runserver  , sample is shown below
       ![image](https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/2d7f62d0-a593-47a3-aaf1-9fbc8ffd6c3f)
     
-   6. now your application will run on this server -> http://127.0.0.1:8000/     
+   7. now your application will run on this server -> http://127.0.0.1:8000/     
 
 
 
