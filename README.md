@@ -25,12 +25,32 @@ i cant upload more than 10 mb file so this is a short prview of  to do a comment
 
 # how to run locally 
 
-pip install requests
-pip install django-allauth
-pip install django
-pip install beautifulsoup4
-pip install pillow
-python manage.py migrate
+   1. first of all create a virtual environment (make sure python is installed in your computer and path is added in environmental variables )
+           create a virtual environment like this
+           command -> python -m venv (name of your virtual environment) , sample is shown below
+           <img width="697" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/43321f8a-ad2a-4ce8-a695-7010a0df065e">
+   2. now activate your virtual environment
+         command -> (your virtual environment name)\Scripts\Activate.bat   (for windows)
+         command ->  source (your virtual environment name)/bin/activate    (for mac)  , sample is shown below for windows
+         <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/297db68c-98c9-4803-9635-2ba627229557">
+   3. now install all dependencies :
+         pip install requests
+         pip install django-allauth
+         pip install django
+         pip install beautifulsoup4
+         pip install pillow
+         python manage.py migrate
+  4. now apply migration to the database
+       command ->  python manage.py migrate  , sample is shown below
+       <img width="692" alt="image" src="https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/9a3e34b3-5223-4937-928b-8f5dea47cadf">
+
+  5. now run the  server using following command
+      command -> python manage.py runserver  , sample is shown below
+      ![image](https://github.com/swamivikas/cloudsek-backend-intern-assignment-Post-Comment-service-Application/assets/108607735/2d7f62d0-a593-47a3-aaf1-9fbc8ffd6c3f)
+    
+   6. now your application will run on this server -> http://127.0.0.1:8000/     
+
+
 
 # why i choose Django over other 
   Django has built-in features that make it safer to use the user-submitted data on the application
